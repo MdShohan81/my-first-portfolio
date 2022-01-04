@@ -1,0 +1,33 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 45px;
+    color: #2b2a2a;
+}
+.org-color{
+    color: #F97C62;
+}
+.hero-section{
+    display: flex;
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.hero{
+    width: 50%;
+    padding-left: 8%;
+
+}
+.hero img{
+    width: 80%;
+}
+.hire-button{
+    text-decoration: none;
+    background-image: linear-gradient(#F88164, #E53811);
+    padding: 10px 25px;
+    color: #ffffff;
+    font-weight: 600;
+    border-radius: 15px;
+}
